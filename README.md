@@ -1,2 +1,5 @@
-# specs
-Official specification for the Ambients protocol
+# Ambients Protocol Specifications
+
+This repository will contain the official specifications for the Ambients protocol.
+
+***Work in progress!***
